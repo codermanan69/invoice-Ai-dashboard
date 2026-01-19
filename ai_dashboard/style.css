@@ -1,0 +1,31 @@
+body {
+    background-color: #0e1117;
+}
+
+.hero {
+    background: linear-gradient(135deg, #00f5d4, #5b5fff);
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+    color: black;
+    margin-bottom: 30px;
+}
+
+.hero h1 {
+    font-size: 52px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 20px;
+    opacity: 0.9;
+}
+
+.card {
+    background-color: #1c1f26;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    margin-bottom: 20px;
+}
